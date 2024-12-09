@@ -6,3 +6,7 @@ enum class Department {
 	ElectricalEngineering,
 	ElectronicEngineering,
 };
+
+class Utility
+{
+};
