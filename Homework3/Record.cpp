@@ -1,4 +1,3 @@
-
 #include "Record.h"
 #include <iostream>
 #include <iomanip>
